@@ -7,7 +7,7 @@
 |header 1 | header 2 | haeder 3 |
 |--------:|---------:|---------:|
 |online   |offline   | none     |
-|1        |2         |          |
+|1        |2         | 3        |
 
 1. test liste 1
 2. test liste 2 
