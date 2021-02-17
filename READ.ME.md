@@ -16,6 +16,8 @@
     * liste 1a
     * liste 1b
 2. test liste 2 
+    * liste 2a
+    * liste 2b
 3. test liste 3
 
 \(\)
