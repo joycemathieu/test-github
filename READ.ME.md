@@ -13,8 +13,8 @@
 |1        |2         | 3        |
 
 1. test liste 1
-    1. liste 1a
-    2. liste 1b
+    * liste 1a
+    * liste 1b
 2. test liste 2 
 3. test liste 3
 
